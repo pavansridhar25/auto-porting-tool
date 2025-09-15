@@ -1,5 +1,5 @@
 version: 3
-created_by: Prithiviraj_N
+created_by: Pavan s
 domain: Z/Os Patch Fixing
 seed_examples:
   - context: |
@@ -974,8 +974,7 @@ seed_examples:
                 }
                 """
 document:
-  repo: "https://github.com/Prithiviraj25/ZOs-patch-data.git"
-  commit: "1f0e58416f3cdd28b8f265fd0a7820c2c7a5425f"
+  repo: "https://github.com/pavansridhar25/auto-porting-tool/tree/main"
   patterns:
     - "*.md"
 document_outline: "error logged examples"
